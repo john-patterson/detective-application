@@ -1,0 +1,5 @@
+[
+  [ "anger", "shouting"],
+  [ "fight", "gunshot", "panic", "fleeing"],
+  [ "shouting", "fight", "fleeing"]
+]
